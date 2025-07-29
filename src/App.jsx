@@ -4,7 +4,7 @@ import Header from './components/header/Header';
 import History from './components/history/History';
 import Gallery from './components/gallery/Gallery';
 import About from './components/about/About';
-import Contact from './components/Contact/Contact';
+import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import Images from './pages/Images/Images';
 
