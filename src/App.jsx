@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 import Header from './components/header/Header';
-import History from './components/History/History';
+import History from './components/history/History';
 import Gallery from './components/gallery/Gallery';
 import About from './components/about/About';
 import Contact from './components/Contact/Contact';
