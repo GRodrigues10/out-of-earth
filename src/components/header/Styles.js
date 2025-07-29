@@ -8,7 +8,7 @@ export const StylesHeader = styled.div`
 
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
 div{
       display: flex;
     align-items: center;
@@ -43,6 +43,8 @@ div{
   }
 
   @media screen and (min-width:768px){
+  background-attachment: fixed;
+
     h1{
       font-size: 4rem;
     }
