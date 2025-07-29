@@ -1,9 +1,12 @@
-import React from 'react'
-
-
 import { StylesGallery } from './Styles'
+import { useNavigate } from 'react-router-dom'
 
 function Gallery() {
+
+  const navigate = useNavigate();
+  function fetch(){
+    navigate('/images')
+  }
   return (
     <StylesGallery>
 
@@ -22,7 +25,7 @@ function Gallery() {
             
            
 
-            <button>Ver Fotos</button>
+            <button onClick={fetch}>Ver Fotos</button>
        
 
     </StylesGallery>
