@@ -1,4 +1,4 @@
-#Out of Earth
+# Out of Earth
 
 Site oficial de Out of Earth, um jogo fictício de aventura e exploração espacial. Desenvolvido em React, este projeto apresenta uma interface interativa e responsiva para apresentar o universo do jogo, história, galeria de fotos e novidades.
 
